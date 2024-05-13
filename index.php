@@ -6,7 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    <h1> VALES </h1>
+    <h1> MARCIO </h1>
+    <h1>VALES</h1>
    
 <?php
 function calcularMedia($notas) {
